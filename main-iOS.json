@@ -1,0 +1,52 @@
+[
+    { 
+    "title": "밥\n먹을 때",
+    "comments": [
+        "오늘 메뉴는 한식, 중식, 일식, 양식 중에 뭐로 갈까요?",
+        "오늘은 색다르게 평소에 안간곳으로 가볼까요?"
+        ],
+    "backgroundColor": "#DB7669",
+    "backgroundImage": "main_cell_eat",
+    "titleColor": "#EAEAEA"
+    },
+    { 
+    "title": "심심할 때",
+    "comments": [
+        "아 나 심심해 놀아줘"
+        ]
+    },
+    { 
+    "title": "사과할 때",
+    "comments": [
+        "제가 한 일에 대해 설명을 하겠지만, 변명의 여지는 없다고 생각합니다"
+        ],
+    "titleColor": "#DB7669"
+    },
+    { 
+    "title": "변명이\n필요할 때",
+    "comments": [
+        "저 물좀 떠올게요",
+        "오늘 지하철 파업때문에 죄송해요..."
+        ],
+    "backgroundColor": "#FDEE9A",
+    "backgroundImage": "main_cell_request"
+    },
+    { 
+    "title":  "소개팅\n할 때",
+    "comments": [
+        "오늘 날씨가 참 좋네요",
+        "와 실물로 보니까 사진보다 훨씬 아름다우세요",
+        "취미가 어떻게 되세요?"
+        ],
+    "backgroundColor": "#A7DBC5",
+    "backgroundImage": "main_cell_meeting",
+    "titleColor": "#EAEAEA"
+    },
+    { 
+    "title": "길거리에서\n권유를\n받았을 때",
+    "comments": [
+        "아 저 불교믿어요 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        ],
+    "titleColor": "#A7DBC5"
+    }
+]
